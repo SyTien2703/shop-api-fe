@@ -1,0 +1,127 @@
+.container{
+  margin: auto;
+}
+
+body{
+    font-family: "Quicksand", sans-serif;
+}
+.radio + .radio {
+    margin-left: 5px;
+}
+.radio input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.radio input~label {
+    @apply leading-snug border-[1.5px] border-gray-500 rounded-[5px] cursor-pointer max-h-[30px];
+}
+
+.radio input:checked~label {
+    background-color: orange;
+    color: white;
+}
+.nav-link.active {
+   color: red;
+}
+
+.navlinkadmin.active{
+  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+}
+
+.pageActive{
+    display: inline-block;
+    border: 1px solid black;
+    width: 40px;
+}
+
+.pageActive.active{
+    color: black;
+    font-weight: bold;
+}
+
+.listItem {
+    display: none;
+}
+
+.listNav:hover .listItem {
+    display: block;
+}
+
+.listItem::before {
+    position: absolute;
+    content: "";
+    width: 100px;
+    height: 50px;
+    top: -33px;
+}
+
+.count-holder{
+    display: inline-block;
+    vertical-align: top;
+    background: #2962ff;
+    color: #fff;
+    font-size: 11px;
+    text-align: center;
+    left: 23px;
+    top: -10px;
+    padding: 0px 3px;
+    min-width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+}
+
+.shadow{
+    box-shadow: 0px 0px 0px 1px #e7e7e7 inset;
+}
+
+.addCart{
+    z-index: 1;
+  position: relative;
+  outline: none;
+  border: 1px solid red;
+  /* border-left: 1px solid red;
+   border-top: 1px solid red;
+  border-bottom: 1px solid red; */
+}
+
+.addCart::before {
+  content: '';
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  transform-origin: center right;
+  transform: scaleX(0);
+  transition: transform 0.40s ease-in-out;
+}
+
+.addCart:hover {
+  cursor: pointer;
+  color: red;
+
+}
+
+.addCart:hover::before {
+  transform-origin: center left;
+  transform: scaleX(1);
+}
+
+.customLine::after{
+    content: "";
+    background: #000;
+    display: block;
+    width: 60px;
+    height: 4px;
+    margin: 20px auto;
+}
+
+.iconLink{
+    list-style: inside;
+}

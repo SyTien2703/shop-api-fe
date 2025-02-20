@@ -71,7 +71,7 @@ const FooterDetail = () => {
                     <div className="w-full mt-[30px] cursor-default">
                         <div className="bg-[#333] text-[12px] text-[#fff]">
                             <p className="py-[8px] flex items-center justify-center">
-                                Copyright © 2022 Gori VietNam. Powered by Linh Vu
+                                Copyright © 2025 Gori VietNam. Powered by Nguyen Tien
                             </p>
                         </div>
                     </div>

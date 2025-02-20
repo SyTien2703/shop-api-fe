@@ -7,13 +7,13 @@ const dataSlider = [
         id: 1,
         title: "Lorem ipsum",
         subTitle: "Lorem",
-        img: "https://theme.hstatic.net/200000015470/1000737480/14/slide_1_img.jpg?v=800"
+        img: "http://goristore.tokyo/cdn/shop/files/GORI_STORE_2023_LOGO_DESIGN.png?height=628&pad_color=fff&v=1674827022&width=1200"
     },
     {
         id: 2,
         title: "Lorem ipsum",
         subTitle: "Lorem",
-        img: "https://theme.hstatic.net/200000015470/1000737480/14/slide_1_img.jpg?v=80"
+        img: "https://toplist.vn/images/800px/gori-shop-tan-phu-751240.jpg"
     },
     {
         id: 3,

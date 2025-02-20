@@ -30,13 +30,13 @@ const FooterDetail = () => {
                                 <p className="mt-[10px] text-justify font-semibold text-[14px]">
                                     Địa chỉ:
                                     <span className="font-normal ml-[3px]">
-                                        413/16c Lê Văn Sỹ , phường 12 , Quận 3 , Tp. Hồ Chí Minh.
+                                    208 P. Bạch Mai, Cầu Dền, Hai Bà Trưng, Hà Nội.
                                     </span>
                                 </p>
                                 <p className="mt-[10px] text-justify font-semibold text-[14px]">
                                     Điện Thoại:
                                     <span className="font-normal ml-[3px]">
-                                        090.331.9655
+                                        0334206742
                                     </span>
                                 </p>
                                 <p className="mt-[10px] text-justify font-semibold text-[14px]">

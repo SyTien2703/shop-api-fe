@@ -31,7 +31,7 @@ const ContactPage = () => {
                                                     Địa chỉ
                                                 </strong>
                                                 <br />
-                                                413/16c Lê Văn Sỹ , Phường 12 , Quận 3 , Tp. Hồ Chí Minh.
+                                                208 P. Bạch Mai, Cầu Dền, Hai Bà Trưng, Tp Hà Nội.
                                             </p>
                                         </li>
                                         <li className="flex justify-center items-center mb-[25px]">
@@ -55,7 +55,7 @@ const ContactPage = () => {
                                                     Điện thoại
                                                 </strong>
                                                 <br />
-                                                090.331.9655
+                                                0334206742.
                                             </p>
                                         </li>
                                         <li className="flex justify-center items-center mb-[25px]">

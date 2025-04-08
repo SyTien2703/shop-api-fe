@@ -31,7 +31,7 @@ const ContactPage = () => {
                                                     Địa chỉ
                                                 </strong>
                                                 <br />
-                                                208 P. Bạch Mai, Cầu Dền, Hai Bà Trưng, Tp Hà Nội.
+                                                Đường Đức Diễn, 36 Phúc Diễn, Quận Bắc Từ Liêm, Tp Hà Nội.
                                             </p>
                                         </li>
                                         <li className="flex justify-center items-center mb-[25px]">

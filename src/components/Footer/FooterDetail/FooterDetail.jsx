@@ -30,7 +30,7 @@ const FooterDetail = () => {
                                 <p className="mt-[10px] text-justify font-semibold text-[14px]">
                                     Địa chỉ:
                                     <span className="font-normal ml-[3px]">
-                                    Đường Đức Diễn, 36 Phúc Diễn, Bắc Từ Liêm, Hà Nội.
+                                    Đường Đức Diễn, 36 Phúc Diễn, Quận Bắc Từ Liêm, Tp Hà Nội.
                                     </span>
                                 </p>
                                 <p className="mt-[10px] text-justify font-semibold text-[14px]">

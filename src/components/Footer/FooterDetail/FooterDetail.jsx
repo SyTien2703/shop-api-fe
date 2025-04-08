@@ -30,7 +30,7 @@ const FooterDetail = () => {
                                 <p className="mt-[10px] text-justify font-semibold text-[14px]">
                                     Địa chỉ:
                                     <span className="font-normal ml-[3px]">
-                                    208 P. Bạch Mai, Cầu Dền, Hai Bà Trưng, Hà Nội.
+                                    Đường Đức Diễn, 36 Phúc Diễn, Bắc Từ Liêm, Hà Nội.
                                     </span>
                                 </p>
                                 <p className="mt-[10px] text-justify font-semibold text-[14px]">
@@ -65,6 +65,9 @@ const FooterDetail = () => {
                                 <h4 className="cursor-default font-bold text-[18px]">
                                     FANPAGE FACEBOOK
                                 </h4>
+                                <ul className="mt-[10px] text-justify text-[14px]">
+                                <li className="mt-[10px]">https://www.facebook.com/share/1B7j54SmzN/?mibextid=wwXIfr</li>
+                            </ul>
                             </div>
                         </div>
                     </div>
